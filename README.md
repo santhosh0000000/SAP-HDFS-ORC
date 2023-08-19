@@ -9,7 +9,7 @@ Imports:
 Necessary libraries for working with Spark and datasets are imported.
 Class Declaration:
 
-A class named SPARK_ORC is defined.
+A class named DataINTG is defined.
 Main Method:
 
 The main method is the entry point when this class is executed.
